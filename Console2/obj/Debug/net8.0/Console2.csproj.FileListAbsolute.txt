@@ -1,0 +1,14 @@
+C:\Projeto\CitiesAPI\Console2\bin\Debug\net8.0\Console2.exe
+C:\Projeto\CitiesAPI\Console2\bin\Debug\net8.0\Console2.deps.json
+C:\Projeto\CitiesAPI\Console2\bin\Debug\net8.0\Console2.runtimeconfig.json
+C:\Projeto\CitiesAPI\Console2\bin\Debug\net8.0\Console2.dll
+C:\Projeto\CitiesAPI\Console2\bin\Debug\net8.0\Console2.pdb
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.AssemblyInfoInputs.cache
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.AssemblyInfo.cs
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.csproj.CoreCompileInputs.cache
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.dll
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\refint\Console2.dll
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.pdb
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\Console2.genruntimeconfig.cache
+C:\Projeto\CitiesAPI\Console2\obj\Debug\net8.0\ref\Console2.dll
