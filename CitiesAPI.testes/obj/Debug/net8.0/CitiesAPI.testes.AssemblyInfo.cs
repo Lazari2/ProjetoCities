@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitiesAPI.testes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca49e36dd0a5eb67adffec331cf483cd34579c50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+958e115730336b62c1259aca34c98015741a1044")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitiesAPI.testes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitiesAPI.testes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
